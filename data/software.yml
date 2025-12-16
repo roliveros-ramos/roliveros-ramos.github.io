@@ -1,0 +1,6 @@
+- id: example_software
+  name: ExamplePackage
+  tagline: Example R package
+  theme: methods
+  links:
+    github: https://github.com/example

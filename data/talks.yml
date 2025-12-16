@@ -1,0 +1,9 @@
+- id: example_talk
+  title: Example conference presentation
+  event: Example Conference
+  location: Example City
+  date: 2025-01-01
+  type: Invited talk
+  theme: governance
+  authors:
+    - Ricardo Oliveros-Ramos

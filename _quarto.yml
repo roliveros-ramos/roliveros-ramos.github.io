@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ricardo Oliveros-Ramos"
+  navbar:
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Software
+        href: software.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - text: Résumé
+        href: resume.qmd
+  page-footer:
+    left: "© Ricardo Oliveros-Ramos"
+    right:
+      - text: GitHub
+        href: "https://github.com/roliveros-ramos"
+      - text: ResearchGate
+        href: "https://www.researchgate.net/profile/Ricardo-Oliveros-Ramos"
+      - text: Google Scholar
+        href: "https://scholar.google.com/citations?user=6ptCkCUAAAAJ"
+      - text: ORCID
+        href: "https://orcid.org/0000-0002-8069-2101"
+
+bibliography: data/outputs.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true

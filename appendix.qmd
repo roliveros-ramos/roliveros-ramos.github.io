@@ -1,0 +1,9 @@
+---
+title: "Appendix: complete outputs by category"
+---
+
+## Journal articles
+## Reports
+## Conference presentations
+## Software
+## Datasets

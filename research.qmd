@@ -1,0 +1,9 @@
+---
+title: "Research themes"
+---
+
+## Ecosystem & end-to-end modelling
+## Climate-ready fisheries
+## Climate Change Impacts on Marine Ecosystems
+## Statistical & computational methods
+### Stock Assessment and Fisheries Management

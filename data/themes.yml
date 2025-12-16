@@ -1,0 +1,11 @@
+themes:
+  - id: end_to_end
+    label: Ecosystem & end-to-end modelling
+  - id: climate
+    label: Climate-ready fisheries & MSE
+  - id: downscaling
+    label: Environmental layers, downscaling & SDMs
+  - id: methods
+    label: Statistical & computational methods
+  - id: governance
+    label: Transboundary science, RFMOs & advice
